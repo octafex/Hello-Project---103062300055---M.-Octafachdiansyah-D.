@@ -399,5 +399,3 @@ func lihatSemuaStatus(username string) {
 	}
 	// Menampilkan semua status dan komentar
 }	
-
-// Git test
