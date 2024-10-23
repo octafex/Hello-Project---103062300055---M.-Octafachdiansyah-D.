@@ -218,14 +218,3 @@ int main() {
     pacilnomo.run();
     return 0;
 }
-
-int main() {
-    Pacilnomo pacilnomo;
-    pacilnomo.run();
-    return 0;
-}
-int main() {
-    Pacilnomo pacilnomo;
-    pacilnomo.run();
-    return 0;
-}
